@@ -9,7 +9,7 @@ and user-friendly mobile applications using **Flutter**.
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/safaa922/safaa922/main/assets/jester.gif" width="300" alt="Jester and queen animation">
+  <img src="https://raw.githubusercontent.com/safaa922/safaa922/main/jester.gif" width="300" alt="Jester and queen animation">
 </p>
 
 ##  About Me

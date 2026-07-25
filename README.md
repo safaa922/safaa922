@@ -4,7 +4,8 @@
 
 ### Flutter Developer | Computer Science Graduate | Mobile App Enthusiast
 
-I'm a Computer Science graduate from **Assiut University** with a passion for building clean, scalable, and user-friendly mobile applications using **Flutter**. I enjoy turning ideas into real-world applications and continuously learning new technologies to improve my skills.
+I'm a Computer Science graduate from **Assiut University** with a passion for building clean, scalable, 
+and user-friendly mobile applications using **Flutter**.
 
 ---
 <p align="center">

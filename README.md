@@ -4,7 +4,7 @@ I'm a Computer Science graduate from **Assiut University** with a passion for bu
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 📱 Flutter Developer
 * 🎓 B.Sc. in Computer Science
@@ -75,17 +75,6 @@ A movie discovery application built with the TMDB API.
 
 ---
 
-### 🚗 Car Rental App
-
-A modern Flutter application for browsing and booking rental cars with a clean architecture approach.
-
----
-
-### 🗺️ Maps App
-
-A location-based Flutter application exploring maps, routing, markers, and geolocation services.
-
----
 
 ## 📈 GitHub Stats
 
@@ -110,5 +99,5 @@ A location-based Flutter application exploring maps, routing, markers, and geolo
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(Add your LinkedIn URL)*
-* 📧 Email: *(Add your email)*
+* 💼 LinkedIn: *(https://www.linkedin.com/in/safaa-mohamed-a00a93263/)*
+* 📧 Email: *(safaamohamed2003dec@gmail.com)*

@@ -8,7 +8,7 @@ I'm a Computer Science graduate from **Assiut University** with a passion for bu
 
 ---
 <p align="center">
-  <img width="450" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Alien coding">
+  <img src="https://raw.githubusercontent.com/safaa922/safaa922/main/assets/jester.gif" width="300" alt="Jester and queen animation">
 </p>
 
 ##  About Me

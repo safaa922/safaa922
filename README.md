@@ -1,5 +1,3 @@
-# Hi there, I'm Safaa 👋
-
 ### Flutter Developer | Computer Science Graduate | Mobile App Enthusiast
 
 I'm a Computer Science graduate from **Assiut University** with a passion for building clean, scalable, and user-friendly mobile applications using **Flutter**. I enjoy turning ideas into real-world applications and continuously learning new technologies to improve my skills.
@@ -12,7 +10,6 @@ I'm a Computer Science graduate from **Assiut University** with a passion for bu
 * 🎓 B.Sc. in Computer Science
 * 🌱 Currently learning **Flutter Maps**, **Google Maps**, and advanced mobile development concepts
 * 💡 Interested in Mobile Development, Clean Architecture, and UI/UX
-* 🤝 Always open to learning, collaborating, and contributing to exciting projects
 
 ---
 
@@ -20,8 +17,10 @@ I'm a Computer Science graduate from **Assiut University** with a passion for bu
 
 ### Languages
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Mobile Development
 

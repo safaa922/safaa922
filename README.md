@@ -8,8 +8,6 @@ I'm a Computer Science graduate from **Assiut University** with a passion for bu
 
 * 📱 Flutter Developer
 * 🎓 B.Sc. in Computer Science
-* 🌱 Currently learning **Flutter Maps**, **Google Maps**, and advanced mobile development concepts
-* 💡 Interested in Mobile Development, Clean Architecture, and UI/UX
 
 ---
 
@@ -88,14 +86,6 @@ A movie discovery application built with the TMDB API.
 
 ---
 
-## 🌱 Currently Learning
-
-* Flutter Maps
-* Google Maps APIs
-* Advanced Flutter Animations
-* Performance Optimization
-
----
 
 ## 📫 Connect With Me
 

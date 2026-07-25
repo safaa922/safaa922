@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Safaa+%F0%9F%91%8B;Flutter+Developer;Computer+Science+Graduate;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
 ### Flutter Developer | Computer Science Graduate | Mobile App Enthusiast
 
 I'm a Computer Science graduate from **Assiut University** with a passion for building clean, scalable, and user-friendly mobile applications using **Flutter**. I enjoy turning ideas into real-world applications and continuously learning new technologies to improve my skills.

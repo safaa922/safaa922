@@ -7,6 +7,9 @@
 I'm a Computer Science graduate from **Assiut University** with a passion for building clean, scalable, and user-friendly mobile applications using **Flutter**. I enjoy turning ideas into real-world applications and continuously learning new technologies to improve my skills.
 
 ---
+<p align="center">
+  <img width="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Q0eHV6M3Rja2g2bW8zdzNwdDNzOHJlM3l6emRpdWNwYTVqYjE5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+</p>
 
 ##  About Me
 

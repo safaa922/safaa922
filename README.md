@@ -39,7 +39,7 @@ and user-friendly mobile applications using **Flutter**.
 
 ### State Management
 
-* Bloc / Cubit
+* Cubit
 
 ### Networking
 

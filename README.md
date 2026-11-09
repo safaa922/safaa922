@@ -58,13 +58,6 @@ and user-friendly mobile applications using **Flutter**.
 
 ## 📌 Featured Projects
 
-### 🛍️ VStore
-
-A Flutter-based e-commerce application featuring authentication, product browsing, shopping cart, and AI-powered virtual try-on.
-
-**Tech:** Flutter • Firebase • REST API • Clean Architecture
-
----
 
 ### 🎬 Movie App
 
